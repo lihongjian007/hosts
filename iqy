@@ -1,1 +1,148 @@
-123
+# 爱奇艺测试
+45.251.20.204    image.ssports.com
+45.251.20.204    img0.ssports.com
+45.251.20.204    img1.ssports.com
+45.251.20.204    img2.ssports.com
+45.251.20.204    img3.ssports.com
+49.7.30.12    pic0.qiyipic.com
+49.7.30.12    pic1.qiyipic.com
+49.7.30.12    pic2.qiyipic.com
+49.7.30.12    pic3.qiyipic.com
+49.7.30.12    pic4.qiyipic.com
+49.7.30.12    pic5.qiyipic.com
+49.7.30.12    pic6.qiyipic.com
+49.7.30.12    pic7.qiyipic.com
+49.7.30.12    pic8.qiyipic.com
+49.7.30.12    pic9.qiyipic.com
+49.7.30.12    pic0.iqiyipic.com
+49.7.30.12    pic1.iqiyipic.com
+49.7.30.12    pic2.iqiyipic.com
+49.7.30.12    pic3.iqiyipic.com
+49.7.30.12    pic4.iqiyipic.com
+49.7.30.12    pic5.iqiyipic.com
+49.7.30.12    pic6.iqiyipic.com
+49.7.30.12    pic7.iqiyipic.com
+49.7.30.12    pic8.iqiyipic.com
+49.7.30.12    pic9.iqiyipic.com
+45.251.20.204    www.ssports.com
+45.251.20.204    m.ssports.iqiyi.com
+45.251.20.204    m.ssports.com
+45.251.20.204    json.ssports.com
+60.205.13.80    data.ssports.com
+45.251.20.204    pay.ssports.com
+45.251.20.204    user.ssports.com
+45.251.20.204    security.ssports.com
+45.251.20.204    mpay.ssports.com
+45.251.20.204    muser.ssports.com
+45.251.20.204    muser.ssports.iqiyi.com
+45.251.20.204    msecurity.ssports.com
+45.251.20.204    hd.ssports.com
+45.251.20.204    user.app.ssports.com
+45.251.20.204    pay.app.ssports.com
+45.251.20.204    config.app.ssports.com
+45.251.20.204    activity.ssports.com
+45.251.20.204    cooperation.ssports.com
+45.251.20.204    json.ssports.ptqy.gitv.tv
+45.251.20.204    goal.ssports.com
+45.251.20.204    comment.ssports.com
+45.251.20.204    credit.ssports.com
+45.251.20.204 front.ssports.com
+#IM消息
+45.251.20.204    im.ssports.com
+#红包
+45.251.20.204    lot.ssports.com
+45.251.20.204 goal.ssports.com
+#PCW
+111.206.72.210    sports.iqiyi.com
+36.110.224.64    www.iqiyi.com
+36.110.224.64    stc.iqiyipic.com
+111.206.72.210    static.iqiyi.com
+111.206.72.210    static.qiyi.com
+36.110.224.64    test-pay.iqiyi.com
+36.110.224.64    pcw-api.iqiyi.com
+#会员权益
+116.211.198.142    serv.vip.qiyi.com
+116.211.198.142    serv.vip.iqiyi.com
+#会员鉴权
+116.211.198.142    api.vip.iqiyi.com
+#会员信息服务
+116.211.198.142    vinfo.vip.iqiyi.com
+#对外合作vip-partener-x
+116.211.198.142   test.openapi.vip.iqiyi.com
+#会员交易
+116.211.198.142    i.vip.iqiyi.com
+#passport
+36.110.224.64    passport.iqiyi.com
+36.110.224.64    cmonitor.iqiyi.com
+36.110.224.64    verify.iqiyi.com
+#聊天室后台
+61.135.173.131    livechat.iqiyi.com
+#订阅
+36.110.224.64    subscription.iqiyi.com
+#支付系统
+36.110.224.64    pay.iqiyi.com
+36.110.224.64    pay-qa.iqiyi.com
+36.110.224.64    wallet.iqiyi.com
+36.110.224.64    account.qiyi.com
+#移动后端服务
+36.110.224.64    pad-cards.iqiyi.com
+36.110.224.64    cards.iqiyi.com
+36.110.224.64    iface2.iqiyi.com
+36.110.224.64    iface.iqiyi.com
+#视频云服务
+116.211.198.142    cache.video.iqiyi.com
+116.211.198.142 cache.video.qiyi.com
+116.211.198.142    cache.m.iqiyi.com
+36.110.208.93    cache.video.ptqy.gitv.tv
+36.110.208.93    cache.m.ptqy.gitv.tv
+116.211.198.142 drm.video.iqiyi.com
+116.211.198.142    intel-live.video.iqiyi.com
+116.211.198.142   local-live.video.ptqy.gitv.tv
+116.211.198.142   live.video.iqiyi.com
+116.211.198.142   live.video.ptqy.gitv.tv
+116.211.198.142  live-video.iq.com
+103.44.57.12 policy.video.iqiyi.com
+#广告后端
+111.48.120.43    t7z.cupid.iqiyi.com
+#验证中心
+49.7.32.59    qcaptcha.iqiyi.com
+#大直播服务
+36.110.224.64    apis-live.iqiyi.com
+36.110.224.64    test-apis-live.iqiyi.com
+36.110.224.64    test-live.iqiyi.com
+36.110.224.64    test-m-live.iqiyi.com
+36.110.224.64    test-live-static.iqiyi.com
+#弹幕服务
+36.110.224.64    bar.i.iqiyi.com
+36.110.224.64    bar-i.iqiyi.com
+36.110.224.64    cmts.iqiyi.com
+#规则引擎
+36.110.224.64    community.iqiyi.com
+#调度服务
+58.215.127.126    flvlive.video.iqiyi.com
+58.215.127.126 data.video.qiyi.com
+58.215.127.126 data.video.iqiyi.com
+58.215.127.126 data6.video.iqiyi.com
+58.215.127.126 data6.video.qiyi.com
+49.7.30.12    meta.video.iqiyi.com
+58.215.127.126 hlslive.video.iqiyi.com
+#爱奇艺账号系统
+36.110.224.64    apollo.iqiyi.com
+#广告后台
+45.251.20.205 adcms.ssports.com 
+45.251.20.205 show.ssports.com
+45.251.20.204 api.ssports.ptqy.gitv.tv
+45.251.20.204    config.app.ssports.com
+36.110.224.64    pay-test.iqiyi.com
+49.7.30.10 v-3v6f5x1.71edge.com
+45.251.20.204 data.ssports.ptqy.gitv.tv
+#爱豆商城
+45.251.20.204 task.ssports.com
+#红包
+45.251.20.204 red.ssports.com
+# 数据页
+45.251.20.204 info.ssports.com
+# 签发设备指纹
+218.206.90.173  cook.iqiyi.com
+
+123.125.118.250 vpn.iqiyi.com 
