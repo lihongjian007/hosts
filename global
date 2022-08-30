@@ -1,0 +1,33 @@
+# 澳门测试环境
+192.168.4.253 json-global.ssports.com
+192.168.4.253 front-global.ssports.com
+192.168.4.253 image-global.ssports.com
+192.168.4.253 pay-global.ssports.com
+
+192.168.4.253 security-global.ssports.com
+192.168.4.253 user-global.ssports.com
+192.168.4.253 m-global.ssports.com
+192.168.4.253 openapp-global.ssports.com
+192.168.4.253 download.iqiyisports.hk
+192.168.4.253 im-global.ssports.com
+# 192.168.4.253 image.ssports.com
+#ssports后台
+192.168.4.253 sb-global.ssports.com
+
+#goal后台
+192.168.4.253 goal-global.ssports.com
+
+192.168.4.233 adcms.ssports.com
+
+192.168.4.253 wiki.ssports.com
+
+#广告系统
+192.168.7.67 ad-global.ssports.com
+192.168.7.67 adcms-global.ssports.com
+
+#新钻服务(爱豆)
+192.168.4.253 task-global.ssports.com
+
+192.168.4.253 goal.ssports.com
+192.168.4.253 json.ssports.com
+192.168.4.253 task-local-global.ssports.com
