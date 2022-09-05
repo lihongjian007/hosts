@@ -31,3 +31,6 @@
 192.168.4.253 goal.ssports.com
 192.168.4.253 json.ssports.com
 192.168.4.253 task-local-global.ssports.com
+
+#评论
+192.168.4.253  comment-global.ssports.com
