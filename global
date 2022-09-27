@@ -19,8 +19,6 @@
 
 192.168.4.233 adcms.ssports.com
 
-192.168.4.253 wiki.ssports.com
-
 #广告系统
 192.168.7.67 ad-global.ssports.com
 192.168.7.67 adcms-global.ssports.com
@@ -34,3 +32,6 @@
 
 #敏感词过滤
 192.168.4.253  comment-global.ssports.com
+
+192.168.5.226 wiki-local.ssports.com
+192.168.5.226 wiki.ssports.com
