@@ -4,26 +4,26 @@
 192.168.4.253    img1.ssports.com
 192.168.4.253    img2.ssports.com
 192.168.4.253    img3.ssports.com
-49.7.30.12    pic0.qiyipic.com
-49.7.30.12    pic1.qiyipic.com
-49.7.30.12    pic2.qiyipic.com
-49.7.30.12    pic3.qiyipic.com
-49.7.30.12    pic4.qiyipic.com
-49.7.30.12    pic5.qiyipic.com
-49.7.30.12    pic6.qiyipic.com
-49.7.30.12    pic7.qiyipic.com
-49.7.30.12    pic8.qiyipic.com
-49.7.30.12    pic9.qiyipic.com
-49.7.30.12    pic0.iqiyipic.com
-49.7.30.12    pic1.iqiyipic.com
-49.7.30.12    pic2.iqiyipic.com
-49.7.30.12    pic3.iqiyipic.com
-49.7.30.12    pic4.iqiyipic.com
-49.7.30.12    pic5.iqiyipic.com
-49.7.30.12    pic6.iqiyipic.com
-49.7.30.12    pic7.iqiyipic.com
-49.7.30.12    pic8.iqiyipic.com
-49.7.30.12    pic9.iqiyipic.com
+116.211.201.201    pic0.qiyipic.com
+116.211.201.201    pic1.qiyipic.com
+116.211.201.201    pic2.qiyipic.com
+116.211.201.201    pic3.qiyipic.com
+116.211.201.201    pic4.qiyipic.com
+116.211.201.201    pic5.qiyipic.com
+116.211.201.201    pic6.qiyipic.com
+116.211.201.201    pic7.qiyipic.com
+116.211.201.201    pic8.qiyipic.com
+116.211.201.201    pic9.qiyipic.com
+116.211.201.201    pic0.iqiyipic.com
+116.211.201.201    pic1.iqiyipic.com
+116.211.201.201    pic2.iqiyipic.com
+116.211.201.201    pic3.iqiyipic.com
+116.211.201.201    pic4.iqiyipic.com
+116.211.201.201    pic5.iqiyipic.com
+116.211.201.201    pic6.iqiyipic.com
+116.211.201.201    pic7.iqiyipic.com
+116.211.201.201    pic8.iqiyipic.com
+116.211.201.201    pic9.iqiyipic.com
 192.168.4.253    www.ssports.com
 192.168.4.253    m.ssports.iqiyi.com
 192.168.4.253    m.ssports.com
@@ -47,6 +47,8 @@
 192.168.4.253    comment.ssports.com
 192.168.4.253    credit.ssports.com
 192.168.4.253 front.ssports.com
+192.168.4.253 im.ssports.com
+
 
 #IM消息
 # 192.168.4.253    im.ssports.com
@@ -55,11 +57,12 @@
 192.168.4.253 goal.ssports.com
 #PCW
 # 新
-111.13.234.118 sports.iqiyi.com
+10.61.224.148    sports.iqiyi.com  
+111.13.234.118 sports.iqiyi.com 
+# 10.61.224.148  sports.iqiyi.com
 111.13.234.118 static.iqiyi.com
 111.13.234.118 static.qiyi.com
 111.13.234.118 stc.iqiyipic.com
-
 
 103.44.58.40    www.iqiyi.com
 103.44.58.40    test-pay.iqiyi.com
@@ -71,6 +74,7 @@
 116.211.198.142    api.vip.iqiyi.com
 #会员信息服务
 116.211.198.142    vinfo.vip.iqiyi.com
+
 #对外合作vip-partener-x
 116.211.198.142   test.openapi.vip.iqiyi.com
 #会员交易
@@ -84,9 +88,8 @@
 # 新
 111.202.75.83 livechat.iqiyi.com
 
-
 #订阅
-103.44.58.40    subscription.iqiyi.com
+# 103.44.58.40    subscription.iqiyi.com
 
 #支付系统
 103.44.58.40    pay.iqiyi.com
@@ -110,16 +113,17 @@
 116.211.198.142 drm.video.iqiyi.com
 116.211.198.142 intel-live.video.iqiyi.com
 116.211.198.142 local-live.video.ptqy.gitv.tv
-116.211.198.142 live.video.iqiyi.com
+
+116.211.198.142 live.video.iqiyi.com  
 116.211.198.142 live.video.ptqy.gitv.tv
 116.211.198.142 live-video.iq.com
 10.41.151.47 policy.video.iqiyi.com
 
 #广告后端
-# 111.48.120.43    t7z.cupid.iqiyi.com
-10.63.4.31 t7z.cupid.iqiyi.com
+111.48.120.43    t7z.cupid.iqiyi.com
+# 10.63.4.31 t7z.cupid.iqiyi.com
 #验证中心
-# 49.7.32.59    qcaptcha.iqiyi.com
+49.7.32.59    qcaptcha.iqiyi.com
 
 #大直播服务
 103.44.58.40    apis-live.iqiyi.com
@@ -137,13 +141,13 @@
 
 
 #调度服务
-58.215.127.126 flvlive.video.iqiyi.com
-58.215.127.126 data.video.qiyi.com
-58.215.127.126 data.video.iqiyi.com
-58.215.127.126 data6.video.iqiyi.com
-58.215.127.126 data6.video.qiyi.com
-49.7.30.12    meta.video.iqiyi.com
-58.215.127.126 hlslive.video.iqiyi.com
+116.211.200.190 flvlive.video.iqiyi.com
+116.211.200.190 data.video.qiyi.com
+116.211.200.190 data.video.iqiyi.com
+116.211.200.190 data6.video.iqiyi.com
+116.211.200.190 data6.video.qiyi.com
+116.211.201.201 meta.video.iqiyi.com
+116.211.200.190 hlslive.video.iqiyi.com
 
 #爱奇艺账号系统
 103.44.58.40    apollo.iqiyi.com
@@ -170,6 +174,8 @@
 
 # 签发设备指纹
 # 218.206.90.173  cook.iqiyi.com
+
+192.168.4.253 match.ssports.com
 
 
 #爱奇艺体首焦点图弹幕
